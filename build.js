@@ -20,7 +20,7 @@ const data = {
   work: chalk.white('Data Scientist'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('hoelzlnicole'),
   github: chalk.gray('https://github.com/') + chalk.green('nhoelzl'),
-  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('nicolehoelzl'),
+  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('hoelzlnicole'),
   web: chalk.cyan('https://nicolehoelzl.com'),
   npx: chalk.red('npx') + ' ' + chalk.white('@nhoelzl/card  (via GitHub Package Registry)'),
   labelWork: chalk.white.bold('       Work:'),
