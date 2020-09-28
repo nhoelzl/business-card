@@ -41,7 +41,5 @@
     "url": "https://github.com/nhoelzl/businesscard/issues"
   },
   "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
