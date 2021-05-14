@@ -1,10 +1,10 @@
 {
   "name": "@nhoelzl/card",
   "version": "1.6.0",
-  "description": "A personal card for Nicole Hoelzl (@nhoelzl)",
+  "description": "A personal card for Nicole Hölzl (@nhoelzl)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "nhoelzl": "./bin/card.js"
   },
   "repository": {
     "type": "git",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Hoelzl Nicole",
+  "author": "Hölzl Nicole",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -42,6 +42,6 @@
   },
   "dependencies": {},
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com"
   }
 }
